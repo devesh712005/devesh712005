@@ -94,14 +94,11 @@ Features:
 
 ## 📊 Coding Profiles
 
-LeetCode:
-https://leetcode.com/
-
 GitHub:
 https://github.com/devesh712005
 
 LinkedIn:
-https://linkedin.com/in/
+https://www.linkedin.com/in/devesh-singh712005/
 
 ---
 
